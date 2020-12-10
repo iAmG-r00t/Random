@@ -1,0 +1,3 @@
+[submodule "GTFO/0:2_iPod-Antiforensics/rockbox"]
+	path = GTFO/0:2_iPod-Antiforensics/rockbox
+	url = https://github.com/Rockbox/rockbox
